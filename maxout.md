@@ -1,5 +1,5 @@
-Maxout Networks
---
+# Maxout Networks
+[pdf](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjx_oWets7RAhUKxbwKHToeBQ4QFggcMAA&url=http%3A%2F%2Fwww.jmlr.org%2Fproceedings%2Fpapers%2Fv28%2Fgoodfellow13.pdf&usg=AFQjCNEgYUgG3BbpkUxlOEYACIWTU4Qy4g&sig2=z9UINdFHJyvUQ-l0ws_C9w&cad=rja)
 
 # Abstract
 
